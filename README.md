@@ -38,3 +38,7 @@ Create a copy of `.env.example` and modify it so that `POCKETBASE_URL` points at
 ```sh
 npm run dev
 ```
+
+## Customizing the theme
+
+You can use the [Theme Generator](https://www.skeleton.dev/docs/generator) for customizing your theme. Turn on preview, edit the theme as you would like. Once done click the `Show Theme Source` button on the site and replace the contents of `theme.ts` with the generated code.
