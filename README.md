@@ -2,11 +2,11 @@
 
 ## Installation
 
-### Pocketbase setup
+### PocketBase setup
 
 - Download the latest version of Pocketbase from [https://pocketbase.io/docs/](https://pocketbase.io/docs/)
 
-- Start Pocketbase
+- Start PocketBase
 
 ```sh
 ./pocketbase serve
@@ -23,7 +23,7 @@ Once you have cloned the repository and verified it, install the dependencies wi
 npm install
 ```
 
-Create a copy of `.env.example` and modify it so that `POCKETBASE_URL` points at your pocketbase instance,
+Create a copy of `.env.example` and modify it so that `POCKETBASE_URL` points at your PocketBase instance,
 
 ## Running the application
 
